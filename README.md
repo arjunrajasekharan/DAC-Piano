@@ -1,10 +1,31 @@
 # DAC-Piano
 DAC Using R-2R Ladder Circuit To Implement Piano
 
+# Components Used
+- TM4C123GH6PM
+
+- Buttons - 8
+
+- 10kΩ resistors - 8
+
+- 1kΩ resistors - 24
+
+- 500Ω resistor - 1
+
+- Potentiometer - 1
+
+- Speaker - 1
+
+# Pin Configurations:
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 # Circuit
 <img width="839" alt="Screenshot 2021-05-14 at 11 59 46" src="https://user-images.githubusercontent.com/60811574/118230943-fb181980-b4ab-11eb-899c-0675aefe6c2d.png">
 
-![Uploading Screenshot 2021-05-14 at 12.00.08.png…]()
+<img width="834" alt="Screenshot 2021-05-14 at 12 00 08" src="https://user-images.githubusercontent.com/60811574/118231000-15ea8e00-b4ac-11eb-8dec-997960e6b62d.png">
 
 
 # Logic
