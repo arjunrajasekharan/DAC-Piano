@@ -2,7 +2,7 @@
 DAC Using R-2R Ladder Circuit To Implement Piano
 
 # Logic
-● Constructed R-2R Ladder Design for 8-bits in Tivac Board using resistors, wire connectors, and connected Multimeter and in the R-2R Ladder.
+- Constructed R-2R Ladder Design for 8-bits in Tivac Board using resistors, wire connectors, and connected Multimeter and in the R-2R Ladder.
 
 ● The 8-bit binary value is assigned to 8 ports of Port B
 
