@@ -23,7 +23,7 @@ Created DAC Using R-2R Ladder Circuit To Implement Piano in TM4C. This project w
    PE1        |     Button 2
    PE2        |     Button 3
    PE3        |     Button 4
-   PFO        |     Button 5
+   PF0        |     Button 5
    PF1        |     Button 6
    PF2        |     Button 7
    PF3        |     Button 8
