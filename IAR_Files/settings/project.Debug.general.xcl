@@ -1,0 +1,13 @@
+"E:\IIITDM DOCUMENTS\IAR ARM Workbench\arm\bin\armproc.dll" 
+
+"E:\IIITDM DOCUMENTS\IAR ARM Workbench\arm\bin\armsim2.dll" 
+
+"E:\IIITDM DOCUMENTS\sem 6\Embedded Systems\Lab\Project\Debug\Exe\project.out" 
+
+--plugin="E:\IIITDM DOCUMENTS\IAR ARM Workbench\arm\bin\armbat.dll" 
+
+--device_macro="E:\IIITDM DOCUMENTS\IAR ARM Workbench\arm\config\debugger\TexasInstruments\TM4C123.dmac" 
+
+
+
+
