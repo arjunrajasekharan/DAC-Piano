@@ -17,11 +17,25 @@ DAC Using R-2R Ladder Circuit To Implement Piano
 - Speaker - 1
 
 # Pin Configurations:
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
+  TM4C Pin    | Circuit Connection
+------------- | ------------------
+   PE0        |     Button 1
+   PE1        |     Button 2
+   PE2        |     Button 3
+   PE3        |     Button 4
+   PFO        |     Button 5
+   PF1        |     Button 6
+   PF2        |     Button 7
+   PF3        |     Button 8
+   PB0        |     R-2R Bit 1
+   PB1        |     R-2R Bit 2  
+   PB2        |     R-2R Bit 3
+   PB3        |     R-2R Bit 4
+   PB4        |     R-2R Bit 5
+   PB5        |     R-2R Bit 6
+   PB6        |     R-2R Bit 7
+   PB7        |     R-2R Bit 8
+            
 # Circuit
 <img width="839" alt="Screenshot 2021-05-14 at 11 59 46" src="https://user-images.githubusercontent.com/60811574/118230943-fb181980-b4ab-11eb-899c-0675aefe6c2d.png">
 
