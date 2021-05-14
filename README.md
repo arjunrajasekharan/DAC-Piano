@@ -1,5 +1,5 @@
 # DAC-Piano
-DAC Using R-2R Ladder Circuit To Implement Piano
+Created DAC Using R-2R Ladder Circuit To Implement Piano in TM4C. This project was done as the part of Embedded Systems course.
 
 # Components Used
 - TM4C123GH6PM
